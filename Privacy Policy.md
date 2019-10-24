@@ -98,7 +98,7 @@ We aim to provide you with choices regarding the Personal Information you provid
 
 You can review and change your Personal Information by logging into the Service and visiting your account settings page. If you want access to all of the data we've automatically collected on your user account, please email us at support@castle.games, and we will work with you to do that.
 
-You may also send us an email at support@playcastle.io (TODO: get email address) to request access to, correct, port, delete, or restrict the use of any Personal Information that you have provided to us. We cannot delete all of your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an email at support@castle.games to request access to, correct, port, delete, or restrict the use of any Personal Information that you have provided to us. We cannot delete all of your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your User Contributions from the Service, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided on the Service, including User Contributions, is governed by our terms of use, available at https://castle.games/legal/terms. (TODO: add page to our site)
 
