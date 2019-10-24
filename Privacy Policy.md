@@ -1,6 +1,6 @@
 # Introduction
 
-We at Castle Games, Inc. (“Company”, “We”, or “Castle”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect or that you may provide when you purchase, download, install, register with, access, or use the Castle application (the “App”) or website (the “Website” and collectively with the App, the “Service”). The policy also describes our practices for collecting, using, maintaining, protecting, and disclosing that information.
+We at Castle Games, Inc. ("Company", "We", or "Castle") respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect or that you may provide when you purchase, download, install, register with, access, or use the Castle application (the "App") or website (the "Website" and collectively with the App, the "Service"). The policy also describes our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 We utilize third-party services who have their own privacy policies, and we encourage you to read their privacy policies before providing information on or through them.
 
@@ -21,12 +21,12 @@ We collect information from and about users of our Service:
 
 When you download, register with, or use this Service, we may ask you to provide information:
 
-1. By which you may be personally identified, such as your name, postal address, email address, telephone number, payment service provider account information, and any other identifier by which you may be contacted online or offline (“Personal Information”).
+1. By which you may be personally identified, such as your name, postal address, email address, telephone number, payment service provider account information, and any other identifier by which you may be contacted online or offline ("Personal Information").
 2. Information that you provide by filling in forms in the Service. This includes information provided at the time of registering to use the Service, posting material, comments or content, and if you request further services from Castle. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with the Service.
 3. Records and copies of your correspondence (including email addresses and/or phone numbers), if you contact us.
    4.Your responses to surveys that we might ask you to complete for research purposes.
 
-You may provide information to be published or displayed (“Posted”) on public areas of our Service (collectively, “User Contributions”). Your User Contributions are Posted and transmitted to others at your own risk. Although you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions or view on the Service.
+You may provide information to be published or displayed ("Posted") on public areas of our Service (collectively, "User Contributions"). Your User Contributions are Posted and transmitted to others at your own risk. Although you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions or view on the Service.
 
 ### Automatic Information Collection and Tracking
 
@@ -92,7 +92,7 @@ We do not intend to sell or market your Personal Information, however, through p
 We aim to provide you with choices regarding the Personal Information you provide to us. This section describes mechanisms we provide for you to control certain uses and disclosures of your information.
 
 1. Tracking Technologies. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. You can choose whether or not to allow the Service to collect information through other tracking technologies by selecting to opt out via your online account. If you disable or refuse cookies or block the use of other tracking technologies, some parts of the Service may then be inaccessible or not function properly.
-2. Promotion by the Company. If you do not want us to use your email address to promote our own or third parties’ products or services, you can opt-out by de-selecting the option in “Email Notifications” in your user account. You can also always opt-out by logging into the Service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. [We may reserve the right to send you emails about important or necessary changes to your account or service, for example, to inform you of payment issues or copyright claims about your content.]
+2. Promotion by the Company. If you do not want us to use your email address to promote our own or third parties’ products or services, you can opt-out by de-selecting the option in "Email Notifications" in your user account. You can also always opt-out by logging into the Service and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. [We may reserve the right to send you emails about important or necessary changes to your account or service, for example, to inform you of payment issues or copyright claims about your content.]
 
 ### Accessing and Correcting Your Personal Information
 
@@ -108,7 +108,7 @@ California Civil Code Section 1798.83 permits users of our Service that are Cali
 
 ### EU Users
 
-If you are using the Service from the European Union (“EU”) or other regions with laws governing data collection and use that may differ from EU or United States law, please note that you may be transferring your Personal Information to Castle in the United States for the purposes described under this Privacy Policy. The legal basis we rely on to use your Personal Information is as follows:
+If you are using the Service from the European Union ("EU") or other regions with laws governing data collection and use that may differ from EU or United States law, please note that you may be transferring your Personal Information to Castle in the United States for the purposes described under this Privacy Policy. The legal basis we rely on to use your Personal Information is as follows:
 
 - Performance of a contract. Your Personal Information is necessary to perform the terms and conditions or other policies under which we provide our Services.
 - Consent. We rely upon your consent to use (i) technical information such as cookie data and IP geo-location data; and (ii) your Personal Information for marketing purposes. You may withdraw your consent at any time by contacting us at support@castle.games, or by using the unsubscribe link in any marketing communication you receive from us.
