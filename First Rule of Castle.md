@@ -1,4 +1,4 @@
-# First Rule of Castle
+# Introduction
 
 - Make fun games.
 - Don't pollute them with monetization mechanics that suck the fun out of them.
