@@ -1,4 +1,4 @@
-When starting a new Castle game, the recommended path is to [use the Create button in Castle](/posts/@castle/make-your-first-castle-game).
+When starting a new Castle game, the recommended path is to [use the Create button in Castle](/documentation/tutorials/make-your-first-castle-game).
 
 This tutorial describes how to make a Castle game from scratch, using just a text editor to write the basic files instead of letting Castle provide them for you. This tutorial exists mostly as an educational reference, explaining what's going on in the details of the new project creation process.
 
@@ -20,7 +20,7 @@ You now have a tiny Castle program. You can open `main.lua` directly in Castle a
 
 ## (Optional) Castle Project Files
 
-If you want to provide metadata for your game with a [Project File](/posts/@castle/describe-your-game-with-castle-file), you can make one. Call it something like `mygame.castle`. You can make "mygame" whatever you want, but make sure you give it the `.castle` extension.
+If you want to provide metadata for your game with a [Project File](/documentation/tutorials/describe-your-game-with-a-castle-project-file), you can make one. Call it something like `mygame.castle`. You can make "mygame" whatever you want, but make sure you give it the `.castle` extension.
 
 Put this in your `.castle` file:
 
@@ -31,4 +31,4 @@ owner: mycastleusername
 description: A description of my game
 ```
 
-Check out [this guide](/posts/@castle/describe-your-game-with-castle-file) for a lot more information about Castle project files.
+Check out [this guide](/documentation/tutorials/describe-your-game-with-a-castle-project-file) for a lot more information about Castle project files.
