@@ -1,4 +1,4 @@
-# Make Castle Fun
+# Make Castle Fun (for You and for Other People)
 
 The golden rule of Castle is: **Make Castle Fun (for You and for Other People)**. Pretty much everything that's encouraged and disallowed can be derived from this principle.
 
