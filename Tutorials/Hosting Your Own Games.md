@@ -2,7 +2,7 @@
 
 This guide is for creators who made a Castle game, and want to share that game on their Castle profile, but prefer to use their **own file hosting service**.
 
-For most users, we recommend following [this guide to add games to your profile](https://castle.games/posts/@castle/adding-game-to-castle-profile). However, if you prefer not to upload your files to Castle, you can also host the game files yourself. Examples of non-Castle file hosting services include Github, Bitbucket, or any other website capable of serving static text files and assets.
+For most users, we recommend following [this guide to add games to your profile](/documentation/tutorials/adding-games-to-your-profile). However, if you prefer not to upload your files to Castle, you can also host the game files yourself. Examples of non-Castle file hosting services include Github, Bitbucket, or any other website capable of serving static text files and assets.
 
 ## How do I add externally-hosted games to my profile?
 
@@ -14,7 +14,7 @@ The most common way to upload a Castle game is to push it to some hosted source 
 
 Here is an [example github repository](https://github.com/bridgs/lil-chess/tree/master) containing a simple Castle game. Notice that it contains all the Lua code for the game, as well as the `.castle` project file.
 
-Your game must have a **Castle Project File** which includes your Castle username in the **owner** key. In most cases, Castle already added this for you. If you don't have a Castle Project File, follow this [guide](/posts/@castle/describe-your-game-with-castle-file) to add one to your game.
+Your game must have a **Castle Project File** which includes your Castle username in the **owner** key. In most cases, Castle already added this for you. If you don't have a Castle Project File, follow this [guide](/documentation/tutorials/describe-your-game-with-a-castle-project-file) to add one to your game.
 
 ### 2. Find the uploaded url to your game's Castle Project File.
 
@@ -48,9 +48,9 @@ Congratulations! You've now added this game to your profile.
 
 ## What's next?
 
-Now that your game is on your profile, anybody in Castle can find it and play it. You might want to make sure the game looks great, for example by adding some artwork or a primary color. There are lots of ways to customize your game's appearance, so check out the [Castle Project File Reference](/documentation/castle-file) for the full list.
+Now that your game is on your profile, anybody in Castle can find it and play it. You might want to make sure the game looks great, for example by adding some artwork or a primary color. There are lots of ways to customize your game's appearance, so check out the [Castle Project File Reference](/documentation/reference/castle-project-file-reference) for the full list.
 
 If you upload any changes to your game's code, your players will receive those changes immediately. This is because Castle doesn't host your code, and just reads it from the url you provided.
-For metadata changes you make to your Castle Project File, like artwork and title, Castle maintains an index of that information so people can view it on your profile. Castle will update this index about once a day. If you want to synchronize metadata changes immediately, find the game card and click the **Update...** button.
+For metadata changes you make to your Castle Project File, like artwork and title, Castle maintains an index of that information so people can view it on your profile. Castle will update this index about once a day. If you want to synchronize metadata changes immediately, find the game card and click the **U** button.
 
 Happy creating!
