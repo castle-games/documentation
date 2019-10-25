@@ -1,6 +1,6 @@
 The dimensions of a game (width and height on screen) make a big difference in how it appears to players. Likewise, the scaling behavior (how your game's graphics change when the screen real estate is bigger or smaller) can have a similar impact. Castle offers several different configurations you can use to make sure your game uses screen space the way you want.
 
-All of these are keys you can change in your game's **Castle Project File**. Check out [this guide](/posts/@castle/describe-your-game-with-castle-file) if you'd like more information about Castle Project Files, and also see the full [Castle Project File Reference](/documentation/castle-file).
+All of these are keys you can change in your game's **Castle Project File**. Check out [this guide](/documentation/tutorials/describe-your-game-with-a-castle-project-file) if you'd like more information about Castle Project Files, and also see the full [Castle Project File Reference](/documentation/reference/castle-project-file-reference).
 
 ## dimensions
 

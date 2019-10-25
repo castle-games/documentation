@@ -6,11 +6,11 @@ In Castle, users should always be aware that a post is being created on their pa
 
 ### `castle.post.create(options)`
 
-Request the creation of a post on the part of the user. Must be called in a `network.async` block (see [storage API reference](/documentation/storage-api-reference) under "Using `network.async`"). Takes a table `options` with the following keys:
+Request the creation of a post on the part of the user. Must be called in a `network.async` block (see [storage API reference](/documentation/reference/storage-api-reference) under "Using `network.async`"). Takes a table `options` with the following keys:
 
 - `message` (*string*): A default message to include in the post. The user will be able to edit this message in the confirmation screen.
 - `media` (*string* or *ImageData*): Indicates the image to be included with the post. If it is the string `'capture'`, Castle automatically takes a screenshot to include as this image. If it is a LÖVE [ImageData](https://love2d.org/wiki/ImageData), that image is included. The *ImageData* form allows for many flexible forms of usage, say by rendering to a [Canvas](https://love2d.org/wiki/Canvas) then using `[Canvas:newImageData](https://love2d.org/wiki/Canvas:newImageData)` to generate *ImageData* from it.
-- `data` (storage value type): Arbitrary data to include with the post that is given back to the game when the post is loaded. Must have a value type as described in the [storage API reference](/documentation/storage-api-reference) under "Keys and values".
+- `data` (storage value type): Arbitrary data to include with the post that is given back to the game when the post is loaded. Must have a value type as described in the [storage API reference](/documentation/reference/storage-api-reference) under "Keys and values".
 
 Returns the post id. This is a *string* that is unique for each post created and identifies that particular post for its entire lifetime.
 
@@ -18,12 +18,12 @@ Returns the post id. This is a *string* that is unique for each post created and
 
 When the user clicks the "Open data" action on a post, Castle loads the post into a new instance of the game. The game can read this post either by calling the `castle.post.getInitialPost` function to get the initial post the game was opened with, or by defining the `castle.postopened` callback which Castle will call when a post is opened into your game.
 
-You can also load a specific post by its id using `castle.post.get`. This is especially useful when combined with saving post ids in [storage](/documentation/storage-api-reference).
+You can also load a specific post by its id using `castle.post.get`. This is especially useful when combined with saving post ids in [storage](/documentation/reference/storage-api-reference).
 
 Posts are read into your game as a table with the following fields:
 
 - `postId` (*string*): The post id uniquely identifying this post. Same as the value returned by the `castle.post.create` call on creating this post.
-- `creator` (*table*): A table of data about the user that created this post. Has the same format as returned by `castle.user.getMe` as described in the [user API reference](/documentation/user-api-reference)
+- `creator` (*table*): A table of data about the user that created this post. Has the same format as returned by `castle.user.getMe` as described in the [user API reference](/documentation/reference/user-api-reference)
 - `mediaUrl` (*string*): A URL to the image data displayed with this post (as indicated by the `media` option to the `castle.post.create` call). This URL can be used with `love.graphics.newImage` to load a LÖVE [Image](https://love2d.org/wiki/Image), which you can then draw.
 - `data` (storage value type): The arbitrary data attached to this post, equal to the `data` option passed to the `castle.post.create` call that created this post.
 
