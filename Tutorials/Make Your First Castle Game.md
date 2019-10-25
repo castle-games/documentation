@@ -18,9 +18,9 @@ _You can skip this section if you've already installed Castle and have a user ac
 
 You can download the latest release of Castle from Castle's [home page](https://castle.games/).
 
-If you're on **Windows**, this will give you a file named like 'Castle-\<version\>-Setup.exe', which you can launch and follow the instructions to install Castle.
+If you're on **Windows**, this will give you a file named like `'Castle-[version]-Setup.exe'`, which you can launch and follow the instructions to install Castle.
 
-For **macOS**, you will get a file like 'Castle-\<version\>.zip'. Extract this and put the 'Castle.app' file inside in your macOS Applications folder. Putting it in the Applications folder is necessary for auto-updates to work properly.
+For **macOS**, you will get a file like `'Castle-[version].zip'`. Extract this and put the 'Castle.app' file inside in your macOS Applications folder. Putting it in the Applications folder is necessary for auto-updates to work properly.
 
 From now on, Castle can automatically check for updates, prompt you and update itself. You won't have to repeat the installation process on this computer!
 
@@ -36,7 +36,7 @@ You should now be ready to explore and play games on Castle. You probably came t
 
 ### Code editor
 
-Currently, games for Castle are made using the [Lua](https://www.lua.org/start.html) programming language. To write Lua code, you will need a code editor. The Castle team recommends [VS Code](https://code.visualstudio.com/) with the [vscode-lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) extension. If you're already familiar with a code editor that supports Lua, you could continue using it. Vim, Notepad++, Sublime Text, Emacs are all popular code editors that have Lua support. In some cases these editors may need a plugin or some additional setup to enable syntax highlighting for Lua.
+Currently, games for Castle are made using the [Lua](https://www.lua.org/start.html) programming language. To write Lua code, you will need a code editor. The Castle team recommends [VS Code](https://code.visualstudio.com/) with the [vscode-lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) extension. If you're already familiar with a code editor that supports Lua, you could continue using it. Vim, Notepad++, Sublime Text, Emacs are all popular code editors that have Lua support. In some cases these editors may need a plugin or some additional setup to enable syntax highlighting for Lua. See our [Community Links](/documentation/reference/community-reference-links) for more information on code editors.
 
 ### Image editor (optional)
 
@@ -254,6 +254,8 @@ That'll be all for our first game on Castle! Now let's add our game to our profi
 
 ## Adding your game to your profile
 
+*Note: There is a [separate tutorial](/documentation/tutorials/adding-games-to-your-profile) about this subject if you want to follow that. We will cover the same material here.*
+
 First, we'll want to update the description and cover image of our game. Open the file with the '.castle' extension in your project directory. You should be able to use your code editor to open this file. You will see something like the following:
 
 ```yaml
@@ -308,6 +310,6 @@ Click the card to play your game! Any Castle user can now go to your profile and
 
 ![Click 'Copy Link'](https://raw.githubusercontent.com/castle-games/castle-tutorials/master/1/copy-link.png)
 
-Congratulations! You've made a Castle game and added it to your profile. You can update your game at any time by editing the '.castle' file or 'main.lua' and repeating this step.
+Congratulations! You've made a Castle game and added it to your profile. You can update your game at any time by editing the `.castle` file or `main.lua` and repeating this step.
 
 The next tutorial will show you how to add Castle-specific features to your game, such as storing data in a database and making posts.
