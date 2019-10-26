@@ -7,11 +7,9 @@ Castle is a platform and a community for making, playing, and sharing games. Rig
 - [castle.games](/), a website which contains guides and documentation about Castle, and lets you share web links about Castle games and community members.
 - **Community-supported resources** for making games, such as [share.lua](https://github.com/castle-games/share.lua), a library that helps create multiplayer games.
 
-To learn about why Castle exists, check out the [Castle manifesto](/manifesto).
-
 ## How do I make Castle games?
 
-If you have a computer with Windows or macOS and a text editor, you already have most of what you need. Castle games are written in Lua, and run inside the Castle client. Head over to our [getting started guide](/get-started) and we'll walk through creating a simple Castle game.
+If you have a computer with Windows or macOS and a text editor, you already have most of what you need. Castle games are written in Lua, and run inside the Castle client. Head over to our [getting started guide](/documentation/tutorials/make-your-first-castle-game) and we'll walk through creating a simple Castle game.
 
 ## Can I use Castle on Linux?
 
@@ -31,6 +29,6 @@ Castle games use a library called [LÖVE](https://love2d.org/) which contains so
 
 ## Does Castle cost money?
 
-It is free to make, play, and share Castle games. We [believe](/manifesto) in a low barrier to entry for creating games, and we also believe that games are better with other people. Our primary focus is to build a supportive community.
+It is free to make, play, and share Castle games. We believe in a low barrier to entry for creating games, and we also believe that games are better with other people. Our primary focus is to build a supportive community.
 
 We also believe that game creators should be able to make money without sacrificing the quality of their art. In the future, if we can build a community that helps creators make money, we might take a cut of that money to help us sustain the Castle platform. We don't do this right now.
