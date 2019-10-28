@@ -10,6 +10,7 @@ This section provides a reference of all possible keys you can add to a Castle p
 - `title`: The title of this game.
 - `description`: A brief description of this game.
 - `owner`: The Castle username of the owner of this game. Required in order to [add this game to a Castle profile](/documentation/tutorials/adding-games-to-your-profile).
+- `draft`: A boolean. If `true`, Castle will display "Work in Progress" on your Game's card and won't feature the game on the Castle home screen. Default is `false`.
 - `dimensions`: The desired dimensions of your game's screen in [LÖVE units](https://love2d.org/wiki/love.graphics.getDimensions). The default value is 800x450. See [Game Dimensions and Scaling](/documentation/reference/game-dimensions-and-scaling) for much more detailed information.
 - `scaling`: How your game should scale when changing size to fit screen space. Can be `on`, `step` or `off`. See [Game Dimensions and Scaling](/documentation/reference/game-dimensions-and-scaling) for much more detailed information.
 - `upscaling`: Same as `scaling` above but only configures the behavior when the available space is larger than your game's dimensions.
