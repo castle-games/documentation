@@ -1,4 +1,6 @@
-Welcome to the first in a series of tutorials about making games on Castle! In this series we'll first get started with the basics: getting Castle setup, and learning how to draw graphics and react to user input, which form the basis of games. After that, we'll get into the unique social features offered by Castle's platform. These include displaying user avatars in your game, allowing your game to make posts and save data in Castle's database, and making your game multiplayer.
+Welcome to the first in a series of tutorials about making games on Castle! In this series we'll first get started with the basics: getting Castle setup, and learning how to draw graphics and react to user input, which form the basis of games. Later, we'll get into the unique social features offered by Castle's platform. These include displaying user avatars in your game, allowing your game to make posts and save data in Castle's database, and making your game multiplayer.
+
+*Watch a video walkthrough of this tutorial [here](https://www.twitch.tv/videos/499656699).*
 
 ## Learning goals
 
